@@ -1,4 +1,4 @@
-# Chirpy
+# Andrés Aroni
 
 🌏 English • [简体中文](docs/README_zh-CN.md)
 
